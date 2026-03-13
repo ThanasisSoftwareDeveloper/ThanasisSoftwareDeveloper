@@ -56,7 +56,7 @@ I build **automation tools** and **web applications** that solve real business p
 
 ## 📌 Background
 
-Before transitioning to software development, I spent 13 years as a **Project Manager & Security Officer** in the Hellenic Army (including a 12-month NATO mission), and 9 years in a **call center** handling 200+ technical issues per day. I also **co-founded an online education platform** that grew to 40,000+ students and €3,000/month revenue within one year.
+Before transitioning to software development, I spent 13 years as a **Project Manager & Security Officer** in the Hellenic Army (including a 12-month NATO mission), and 8 years in a **call center** handling 200+ technical issues per day. I also **co-founded an online education platform** that grew to 40,000+ students and €3,000/month revenue within one year.
 
 This means I don't just write code — I understand operations, security, user problems, and what it takes to ship something real.
 
