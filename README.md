@@ -10,7 +10,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ## 🚀 Featured Projects
 
-### 🌐 [One-page-site-portfolio](https://github.com/ThanasisSoftwareDeveloper/One-page-site-portfolio) — Personal Portfolio Site
+### 🌐 [One-page-site-portfolio](https://github.com/ThanasisSoftwareDeveloper/One-page-site-portfolio) - Personal Portfolio Site
 
 > My personal one-page portfolio — full-screen sections, dark mode, neon accents, custom animated cursor, and PHP page counter. No frameworks, no build tools. Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
 
@@ -21,7 +21,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 🏦 [Banks-L.E.I.](https://github.com/ThanasisSoftwareDeveloper/Banks-L.E.I.) — KYC/AML Compliance Automation Tool
+### 🏦 [Banks-L.E.I.](https://github.com/ThanasisSoftwareDeveloper/Banks-L.E.I.) - KYC/AML Compliance Automation Tool
 
 > Batch-validate and enrich LEI codes from Excel/LibreOffice Calc files using the GLEIF API. Built for finance & compliance teams doing KYC/AML checks.
 
@@ -32,7 +32,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 🛒 [PriceCalc — dynamic-retail-pricer](https://github.com/ThanasisSoftwareDeveloper/dynamic-retail-pricer) — E-Commerce Pricing Engine
+### 🛒 [PriceCalc — dynamic-retail-pricer](https://github.com/ThanasisSoftwareDeveloper/dynamic-retail-pricer) - E-Commerce Pricing Engine
 
 > Desktop app that scrapes 50+ Greek e-shops in real time and recommends the most profitable selling price based on configurable markup rules.
 
@@ -43,9 +43,10 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 📅 [Calendar App Desktop](https://github.com/ThanasisSoftwareDeveloper/Calendar-App-Desktop) — Full-Stack Task & Calendar Manager
+### 📅 [Calendar App Desktop](https://github.com/ThanasisSoftwareDeveloper/Calendar-App-Desktop) - Full-Stack Task & Calendar Manager
 
 > Developer-grade task manager with Google Calendar 2-way sync, Gmail integration, drag & drop scheduling, and Celery background reminders.
+Live at [Calendar App Desktop](https://calendar-app-desktop.vercel.app/).
 
 - Google OAuth2 login, Gmail-to-task auto-import, 2-way Google Calendar sync
 - Month/Week/Day views with @dnd-kit drag & drop — changes saved instantly to Google Calendar
@@ -54,9 +55,9 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 🤖 [AI School Competition](https://github.com/ThanasisSoftwareDeveloper/AI-school-competition) — Annual AI Challenge Solutions
+### 🤖 [AI School Competition](https://github.com/ThanasisSoftwareDeveloper/AI-school-competition) - Annual AI Challenge Solutions
 
-> Solutions for a yearly AI school competition — 4 structured exercises covering core AI/ML problem-solving.
+> Solutions for a yearly AI school competition - 4 structured exercises covering core AI/ML problem-solving.
 
 - Progressively complex exercises with clean code organization per task
 - Good reference point for algorithmic thinking and AI fundamentals
@@ -82,7 +83,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 Before transitioning to software, I spent **13 years as a Project Manager & Security Officer** in the Hellenic Army (including a 12-month NATO mission abroad), and **9 years** handling 200+ technical customer issues per day. I also **co-founded an online education platform** that reached 40,000+ students, 1,800+ teachers, and €3,000/month revenue within one year.
 
-This means I don't just write code — I understand **operations, security, user pain points**, and what it takes to ship something that works under real-world conditions.
+This means I don't just write code - I understand **operations, security, user pain points**, and what it takes to ship something that works under real-world conditions.
 
 ---
 
@@ -102,8 +103,8 @@ This means I don't just write code — I understand **operations, security, user
 
 ## 💬 Open To
 
-✅ **Remote developer roles** — full-stack, backend, automation, WordPress/e-commerce  
-✅ **Freelance projects** — web apps, compliance tools, pricing/scraping engines  
-✅ **Spanish-speaking markets** welcome — fluent in **English · Spanish · Greek**
+✅ **Remote developer roles** - full-stack, backend, automation, WordPress/e-commerce  
+✅ **Freelance projects** - web apps, compliance tools, pricing/scraping engines  
+✅ **Spanish-speaking markets** welcome - fluent in **English · Spanish · Greek**
 
 > *"I build tools that turn repetitive, error-prone work into a single button click."*
