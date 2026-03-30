@@ -1,4 +1,4 @@
-🏠 Working from home
+🏠 Working and from home
 
 EDUCATION:
 Hellenic Open University — Master of Science: "Information Systems" (Software Engineer). - OCTOBER 2020 - SEPTEMBER 2023 (Graduated)
