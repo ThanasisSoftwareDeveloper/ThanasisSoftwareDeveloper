@@ -12,7 +12,8 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ### 🌐 [One-page-site-portfolio](https://github.com/ThanasisSoftwareDeveloper/One-page-site-portfolio) - Personal Portfolio Site
 
-> My personal one-page portfolio — full-screen sections, dark mode, neon accents, custom animated cursor, and PHP page counter. No frameworks, no build tools. Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
+> My personal one-page portfolio — full-screen sections, dark mode, neon accents, custom animated cursor, and PHP page counter. No frameworks, no build tools.
+>  Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
 
 - Full-screen 5-panel navigation (Home, About, Skills, Projects, Contact) — keyboard, scroll & swipe
 - Dark theme with `#00f5c8` neon palette, ambient glow blobs, scanline overlay
