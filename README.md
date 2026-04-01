@@ -19,6 +19,7 @@ Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
 - Full-screen 5-panel navigation (Home, About, Skills, Projects, Contact) — keyboard, scroll & swipe
 - Dark theme with `#00f5c8` neon palette, ambient glow blobs, scanline overlay
 - Typewriter effect on hero, animated skill bars, PHP-powered visitor counter
+- Modal DM form
 - `PHP` `Vanilla CSS` `Vanilla JavaScript` `Syne` `Space Mono`
 
 ---
