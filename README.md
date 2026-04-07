@@ -1,6 +1,6 @@
 # Hi, I'm Thanasis Koufos 👋
 
-**Junior Software Developer** · MSc Information Systems (Software Engineer) · Based in Xanthi, Greece 🇬🇷
+**Junior Software Developer** · MSc Information Systems (Software Engineer) · Based in Xanthi, Greece (🇬🇷)
 
 I solve compliance issues for businesses and automate invoicing processes for retailers, and many other similar issues.
 I build **desktop tools**, **web apps**, and **automation systems** that solve real business problems — from KYC/AML compliance automation to e-commerce pricing engines and full-stack task managers. I care about clean architecture, security-first thinking, and shipping things that actually work.
