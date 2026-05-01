@@ -25,7 +25,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 > Compare supermarket prices across Cyprus, build smart shopping lists, and find out where to buy each product cheaper. Live at [smartkalathi.com](https://smartkalathi.com).
 
-- Search 478+ products across 22 supermarket chains in Cyprus — cheapest price highlighted automatically
+- Search 478+ products across 22 supermarket chains in Cyprus, cheapest price highlighted automatically
 - Price Optimizer: select stores, get a per-store breakdown and total savings vs. buying from one place
 - Shopping lists with add/remove, Magic Link passwordless login, print/save as PDF
 - `React 18` `TypeScript` `Node.js` `Express` `PostgreSQL` `JWT` `Vercel` `Render`
@@ -48,7 +48,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 > Developer-grade task manager with Google Calendar 2-way sync, Gmail integration, drag & drop scheduling, and Celery background reminders.
 
 - Google OAuth2 login, Gmail-to-task auto-import, 2-way Google Calendar sync
-- Month/Week/Day views with @dnd-kit drag & drop — changes saved instantly to Google Calendar
+- Month/Week/Day views with @dnd-kit drag & drop, changes saved instantly to Google Calendar
 - Full REST API backend: JWT auth, Celery + Redis queue for email reminders, PostgreSQL
 - `React 18` `Django 4.2` `PostgreSQL` `Celery` `Redis` `Google APIs` `Zustand` `Framer Motion`
 
