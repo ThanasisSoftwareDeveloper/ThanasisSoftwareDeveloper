@@ -10,9 +10,9 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ## 🚀 Featured Projects
 
-### 🌐 [One-page-site-portfolio](https://github.com/ThanasisSoftwareDeveloper/One-page-site-portfolio) — Personal Portfolio Site
+### 🌐 [One-page-site-portfolio](https://github.com/ThanasisSoftwareDeveloper/One-page-site-portfolio) - Personal Portfolio Site
 
-> My personal one-page portfolio — full-screen sections, dark mode, neon accents, custom animated cursor, and PHP page counter. No frameworks, no build tools. Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
+> My personal one-page portfolio, full-screen sections, dark mode, neon accents, custom animated cursor, and PHP page counter. No frameworks, no build tools. Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
 
 - Full-screen 5-panel navigation (Home, About, Skills, Projects, Contact) — keyboard, scroll & swipe
 - Dark theme with `#00f5c8` neon palette, ambient glow blobs, scanline overlay
@@ -21,7 +21,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 🛒 [SmartKalathi](https://github.com/ThanasisSoftwareDeveloper/smartkalathi-app) — Supermarket Price Comparison App
+### 🛒 [SmartKalathi](https://github.com/ThanasisSoftwareDeveloper/smartkalathi-app) - Supermarket Price Comparison App
 
 > Compare supermarket prices across Cyprus, build smart shopping lists, and find out where to buy each product cheaper. Live at [smartkalathi.com](https://smartkalathi.com).
 
@@ -32,7 +32,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 🏦 [Banks-L.E.I.](https://github.com/ThanasisSoftwareDeveloper/Banks-L.E.I.) — KYC/AML Compliance Automation Tool
+### 🏦 [Banks-L.E.I.](https://github.com/ThanasisSoftwareDeveloper/Banks-L.E.I.) , KYC/AML Compliance Automation Tool
 
 > Batch-validate and enrich LEI codes from Excel/LibreOffice Calc files using the GLEIF API. Built for finance & compliance teams doing KYC/AML checks.
 
@@ -43,7 +43,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 📅 [Calendar App Desktop](https://github.com/ThanasisSoftwareDeveloper/Calendar-App-Desktop) — Full-Stack Task & Calendar Manager
+### 📅 [Calendar App Desktop](https://github.com/ThanasisSoftwareDeveloper/Calendar-App-Desktop) , Full-Stack Task & Calendar Manager
 
 > Developer-grade task manager with Google Calendar 2-way sync, Gmail integration, drag & drop scheduling, and Celery background reminders.
 
@@ -73,7 +73,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 Before transitioning to software, I spent **13 years as a Project Manager & Security Officer** in the Hellenic Army (including a 12-month NATO mission abroad), and **9 years** handling 200+ technical customer issues per day. I also **co-founded an online education platform** that reached 40,000+ students, 1,800+ teachers, and €3,000/month revenue within one year.
 
-This means I don't just write code — I understand **operations, security, user pain points**, and what it takes to ship something that works under real-world conditions.
+This means I don't just write code, I understand **operations, security, user pain points**, and what it takes to ship something that works under real-world conditions.
 
 ---
 
