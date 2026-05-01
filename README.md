@@ -2,7 +2,7 @@
 
 **Junior Software Developer** · MSc Information Systems (Software Engineer) · Based in Xanthi, Greece 🇬🇷
 
-I build **desktop tools**, **web apps**, and **automation systems** that solve real business problems — from KYC/AML compliance automation to e-commerce pricing engines and full-stack task managers. I care about clean architecture, security-first thinking, and shipping things that actually work.
+I build **desktop tools**, **web apps**, and **automation systems** that solve real business problems, from KYC/AML compliance automation to e-commerce pricing engines and full-stack task managers. I care about clean architecture, security-first thinking, and shipping things that actually work.
 
 🌐 [thanasis-codes.eu](https://www.thanasis-codes.eu) · 💼 [LinkedIn](https://www.linkedin.com/in/thanasis-koufos/) · 📧 thanasis.koufos1@gmail.com
 
@@ -14,7 +14,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 > My personal one-page portfolio, full-screen sections, dark mode, neon accents, custom animated cursor, and PHP page counter. No frameworks, no build tools. Live at [thanasis-codes.eu](https://www.thanasis-codes.eu).
 
-- Full-screen 5-panel navigation (Home, About, Skills, Projects, Contact) — keyboard, scroll & swipe
+- Full-screen 5-panel navigation (Home, About, Skills, Projects, Contact), keyboard, scroll & swipe
 - Dark theme with `#00f5c8` neon palette, ambient glow blobs, scanline overlay
 - Typewriter effect on hero, animated skill bars, PHP-powered visitor counter
 - `PHP` `Vanilla CSS` `Vanilla JavaScript` `Syne` `Space Mono`
