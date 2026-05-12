@@ -32,7 +32,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ---
 
-### 🏦 [Banks-L.E.I.](https://github.com/ThanasisSoftwareDeveloper/Banks-L.E.I.) , KYC/AML Compliance Automation Tool
+### 🏦 [Banks-L.E.I.](https://github.com/ThanasisSoftwareDeveloper/Banks-LEI) , KYC/AML Compliance Automation Tool
 
 > Batch-validate and enrich LEI codes from Excel/LibreOffice Calc files using the GLEIF API. Built for finance & compliance teams doing KYC/AML checks.
 
