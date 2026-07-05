@@ -112,9 +112,9 @@ This means I don't just write code, I understand **operations, security, user pa
 
 ## 💬 Open To
 
-✅ **Remote developer roles** — full-stack, backend, automation, WordPress/e-commerce
-✅ **Freelance projects** — web apps, compliance tools, pricing/scraping engines
-✅ **International, distributed teams** — proven track record collaborating across countries and timezones via Chingu
-✅ **Spanish-speaking markets** welcome — fluent in **English · Spanish · Greek**
+- ✅ **Remote developer roles** — full-stack, backend, automation, WordPress/e-commerce
+- ✅ **Freelance projects** — web apps, compliance tools, pricing/scraping engines
+- ✅ **International, distributed teams** — proven track record collaborating across countries and timezones via Chingu
+- ✅ **Spanish-speaking markets** welcome — fluent in **English · Spanish · Greek**
 
 > *"I build tools that turn repetitive, error-prone work into a single button click."*
