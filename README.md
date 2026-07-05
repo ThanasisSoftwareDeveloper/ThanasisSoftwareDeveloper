@@ -10,7 +10,7 @@ I build **desktop tools**, **web apps**, and **automation systems** that solve r
 
 ## 🌍 International Remote Collaboration
 
-I'm an active member of **[Chingu](https://www.chingu.io)**, a global program that puts developers from around the world into remote Agile teams to ship real products together. Through **Voyage V61 (Tier 3, Team 34)**, I worked in a fully distributed, cross-timezone team of developers spread across different countries, running two-week Agile sprints, daily async standups, Scrum ceremonies, and code review entirely online — no shared office, no shared timezone, just a shared Jira board and a shipped product.
+I'm an active member of **[Chingu](https://www.chingu.io)**, a global program that puts developers from around the world into remote Agile teams to ship real products together. Through **Voyage V61 (Tier 3, Team 34)**, I worked in a fully distributed, cross-timezone team of developers spread across different countries, running six-week Agile sprints, daily async standups, Scrum ceremonies, and code review entirely online — no shared office, no shared timezone, just a shared Jira board and a shipped product.
 
 - 🗣️ Comfortable working and communicating in **English** as a team lingua franca across cultures and timezones
 - 🤝 Experience with distributed Agile/Scrum: sprint planning, standups, retros, and PR-based collaboration across a multi-country team
